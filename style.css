@@ -1,0 +1,52 @@
+* {
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+.row-1 {
+  background-color: rgb(51, 53, 69);
+}
+
+.row-2 {
+  background-color: rgb(34, 37, 57);
+}
+
+.row-4 {
+  background-color: rgb(245, 245, 245);
+}
+.row-5 {
+  background-color: rgb(43, 49, 73);
+}
+.footer-color-2 {
+  background-color: rgb(64, 64, 67);
+}
+.footer-color-3 {
+  background-color: rgb(51, 51, 56);
+}
+hr {
+  background-color: white;
+}
+
+.footer-color-3 i {
+  padding: 7px;
+}
+.footer-color-3 i:hover {
+  color: black;
+  background-color: white;
+  border-radius: 50px;
+  transition: 0.5s;
+}
+.card {
+  margin: 20px;
+  border-radius: 50% !important;
+  border: none !important;
+  background: none !important;
+}
+
+.canva-color {
+  background-color: rgb(46, 49, 71);
+}
+.icon img{
+  width: 100px;
+  height: 100px;
+}
